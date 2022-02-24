@@ -1,0 +1,7 @@
+c:\users\kullanıcı\documents\visual studio 2010\Projects\StackUygulamaOrnegi\StackUygulamaOrnegi\bin\Debug\StackUygulamaOrnegi.exe
+c:\users\kullanıcı\documents\visual studio 2010\Projects\StackUygulamaOrnegi\StackUygulamaOrnegi\bin\Debug\StackUygulamaOrnegi.pdb
+c:\users\kullanıcı\documents\visual studio 2010\Projects\StackUygulamaOrnegi\StackUygulamaOrnegi\obj\x86\Debug\StackUygulamaOrnegi.Form1.resources
+c:\users\kullanıcı\documents\visual studio 2010\Projects\StackUygulamaOrnegi\StackUygulamaOrnegi\obj\x86\Debug\StackUygulamaOrnegi.Properties.Resources.resources
+c:\users\kullanıcı\documents\visual studio 2010\Projects\StackUygulamaOrnegi\StackUygulamaOrnegi\obj\x86\Debug\StackUygulamaOrnegi.csproj.GenerateResource.Cache
+c:\users\kullanıcı\documents\visual studio 2010\Projects\StackUygulamaOrnegi\StackUygulamaOrnegi\obj\x86\Debug\StackUygulamaOrnegi.exe
+c:\users\kullanıcı\documents\visual studio 2010\Projects\StackUygulamaOrnegi\StackUygulamaOrnegi\obj\x86\Debug\StackUygulamaOrnegi.pdb
